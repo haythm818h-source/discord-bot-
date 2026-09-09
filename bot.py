@@ -269,4 +269,4 @@ async def cancel_login(ctx, member: discord.Member):
     else:
         await ctx.send("❌ العضو غير مسجل دخول أساساً.")
 
-bot.run("MTU0NzA2NDE1MDkyMzAyMjM3Ng.Gv5pB6.BfhAXEvUEmZbaWhOq0mOmN5s71BTyuLDz8FeCI")
+bot.run("MTU0NzA2NDE1MDkyMzAyMjM3Ng.GwMhKV.JMsr-iPhFqGGkebgw2zyFR8MVDQBBXH0HNn7yQ")
